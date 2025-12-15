@@ -68,15 +68,16 @@ Segmentação dos clientes para avaliar:
 ## 📊 Principais Visualizações
 
 - 📈 Tendência Temporal do Mercado
-- Visão analítica
-- Entendimento de séries temporais  
-  <img width="608" height="377" alt="Total de Operações vs  Previsão" src="https://github.com/user-attachments/assets/30eea3c9-03f9-4300-afd7-a2afa5aa91f4" />
+  - Visão analítica
+  - Entendimento de séries temporais  
+    <img width="608" height="377" alt="Total de Operações vs  Previsão" src="https://github.com/user-attachments/assets/30eea3c9-03f9-4300-afd7-a2afa5aa91f4" />
 - 🔄 Distribuição de Compra e Venda
-- Mostra comportamento operacional
-- Complementa a análise
-  <img width="605" height="377" alt="Compra e Venda" src="https://github.com/user-attachments/assets/ee27ab48-b2f1-47d6-abcf-9af95cb84633" />
-
+  - Mostra comportamento operacional
+  - Complementa a análise
+    <img width="605" height="377" alt="Compra e Venda" src="https://github.com/user-attachments/assets/ee27ab48-b2f1-47d6-abcf-9af95cb84633" />
 - 💰 Lucro e Prejuízo por Cliente
+  - Mostra análise financeira + segmentação
+    <img width="605" height="377" alt="Lucro e Prejuízo dos Clientes" src="https://github.com/user-attachments/assets/18cc5718-38ed-400f-8034-c41daf8e2747" />
 
 ## 📁 Dados Utilizados
 
