@@ -70,7 +70,7 @@ Segmentação dos clientes para avaliar:
 - 📈 Tendência Temporal do Mercado
    - Mostra visão analítica
    - Demonstra entendimento de séries temporais  
-   📌 Nome do arquivo:<img width="608" height="377" alt="Total de Operações vs  Previsão" src="https://github.com/user-attachments/assets/30eea3c9-03f9-4300-afd7-a2afa5aa91f4" />
+   <img width="608" height="377" alt="Total de Operações vs  Previsão" src="https://github.com/user-attachments/assets/30eea3c9-03f9-4300-afd7-a2afa5aa91f4" />
 
 
   
