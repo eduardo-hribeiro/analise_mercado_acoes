@@ -79,6 +79,12 @@ Segmentação dos clientes para avaliar:
   - Mostra análise financeira + segmentação
   <img width="605" height="377" alt="Lucro e Prejuízo dos Clientes" src="https://github.com/user-attachments/assets/18cc5718-38ed-400f-8034-c41daf8e2747" />
 
+## 💡 Insights Principais
+
+- O gráfico de tendência mostra que as barras oscilam próximas uma das outras, porém, falha em capturar os picos de volatilidade.
+- A distribuição de compra e venda indica que há um equilíbrio. Apresentando uma proximadade extrema de menos de 2% de diferença, o que indica um mercado com alta liquidez e rotação.
+- O entendimento fundamental é que ele mostra a distribuição do capital. O dinheiro (R$) que está saindo do portfólio via vendas foi principalmente gerado por PETR4, e o dinheiro (R$) que está entrando via compras está sendo majoritariamente alocado em ITUB4 e SANB11.
+
 ### 🛠️ Como reproduzir a análise
 
 1. Abra o arquivo `/data/analise_mercado_acoes.xlsx`
