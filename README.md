@@ -37,29 +37,29 @@ analise-mercado-acoes/
 
 ## 🔍 Etapas da Análise
 
-# 1️⃣ Dados do Mercado
+## 1️⃣ Dados do Mercado
 
 Conjunto de dados contendo informações sobre ativos do mercado de ações,
 incluindo registros de operações e valores financeiros associados.
 
-# 2️⃣ Estatísticas Descritivas
+## 2️⃣ Estatísticas Descritivas
 
 - Análise estatística para compreender:
 - Distribuição dos valores
 - Médias, mínimos e máximos
 - Comportamento geral do mercado
 
-# 3️⃣ Operações de Compra e Venda
+## 3️⃣ Operações de Compra e Venda
 
 Avaliação do volume e padrão das operações realizadas,
 permitindo identificar momentos de maior atividade e possíveis estratégias.
 
-# 4️⃣ Tendência Temporal
+## 4️⃣ Tendência Temporal
 
 Análise da evolução dos dados ao longo do tempo,
 identificando tendências e possíveis variações sazonais.
 
-# 5️⃣ Análise por Cliente
+## 5️⃣ Análise por Cliente
 Segmentação dos clientes para avaliar:
 - Volume de operações
 - Resultado financeiro
