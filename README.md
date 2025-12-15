@@ -69,7 +69,7 @@ Segmentação dos clientes para avaliar:
 
 - 📈 Tendência Temporal do Mercado
   - Visão analítica
-  <img width="608" height="377" alt="Total de Operações vs  Previsão" src="https://github.com/user-attachments/assets/30eea3c9-03f9-4300-afd7-a2afa5aa91f4" />
+  ![Tendência Temporal do Mercado de Ações](grafico_tendencia_temporal.png "Gráfico mostrando o comportamento temporal dos ativos no mercado")
     
 - 🔄 Distribuição de Compra e Venda
   - Mostra comportamento operacional
