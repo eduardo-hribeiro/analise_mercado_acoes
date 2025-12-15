@@ -79,6 +79,12 @@ Segmentação dos clientes para avaliar:
   - Mostra análise financeira + segmentação
   <img width="605" height="377" alt="Lucro e Prejuízo dos Clientes" src="https://github.com/user-attachments/assets/18cc5718-38ed-400f-8034-c41daf8e2747" />
 
+### 🛠️ Como reproduzir a análise
+
+1. Abra o arquivo `/data/analise_mercado_acoes.xlsx`
+2. Abra a aba `analise_temporal`
+3. Veja os gráficos na aba `visualizacoes`
+
 ## 📁 Dados Utilizados
 
 Os dados completos, incluindo todas as análises e gráficos,
